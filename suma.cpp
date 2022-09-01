@@ -2,8 +2,10 @@
 using namespace std;
 
 int main(){
-cout<<"Hola Mundo soy Fabricio Rivera";
-cout<<endl<<endl;
+float A,B,C;
+cin>>A>>B;
+C=A+B;
+cout<<C;
 
 return 0;
 }
